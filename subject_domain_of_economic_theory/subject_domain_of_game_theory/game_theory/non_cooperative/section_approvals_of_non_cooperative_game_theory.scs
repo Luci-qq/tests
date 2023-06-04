@@ -6,7 +6,7 @@ information
                 [Утв.(информация)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/game_theory_approval.html"
+                -> rrel_example: "file://html/approvals/information_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
@@ -22,7 +22,7 @@ nash_equality
                 [Утв.(равновесие Нэша)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/win_approval.html"
+                -> rrel_example: "file://html/approvals/nash_equality_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
