@@ -1,0 +1,44 @@
+information
+ <-sc_node_not_relation;
+    => nrel_main_idtf:
+          [Информация]
+            (*<-lang_ru;;*);
+          [Information]
+            (* <- lang_en;;*);
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Опр. (Теория игр)] (* <- lang_ru;; *);;
+            
+             <= nrel_sc_text_translation: ... 
+                (*
+                    -> rrel_example: "file://html/idtfs/information_idtf.html" (*
+							<- lang_ru;;
+							=> nrel_format: format_html;;
+						*);;
+                *);;
+        *);;
+
+nash_equality
+ <-sc_node_not_relation;
+    => nrel_main_idtf:
+          [Выигрыш]
+            (*<-lang_ru;;*);
+          [Win]
+            (* <- lang_en;;*);
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Опр. (Выигрыш)] (* <- lang_ru;; *);;
+            
+             <= nrel_sc_text_translation: ... 
+                (*
+                    -> rrel_example: "file://html/idtfs/nash_equality_idtf.html" (*
+							<- lang_ru;;
+							=> nrel_format: format_html;;
+						*);;
+                *);;
+        *);;
+
