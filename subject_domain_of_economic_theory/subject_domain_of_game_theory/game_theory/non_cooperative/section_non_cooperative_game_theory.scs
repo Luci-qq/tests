@@ -23,9 +23,9 @@ information
 nash_equality
  <-sc_node_not_relation;
     => nrel_main_idtf:
-          [Выигрыш]
+          [Равновесие Нэша]
             (*<-lang_ru;;*);
-          [Win]
+          [Nash equality]
             (* <- lang_en;;*);
     <- rrel_key_sc_element: ... 
         (*
