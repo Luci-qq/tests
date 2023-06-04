@@ -16,6 +16,7 @@ section_of_algorithmic_game_theory
 section_subject_domain_of_game_theory->rrel_key_sc_element:
 subject_domain_of_game_theory;
 game_theory;
+game;
 win;
 lose;
 strategy;
