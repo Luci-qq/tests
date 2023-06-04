@@ -13,7 +13,7 @@ game_theory
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/game_theory/main_idtfs/game_theory_idtf.html" (*
+                    -> rrel_example: "file://html/idtfs/game_theory_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;
@@ -35,7 +35,7 @@ win
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/game_theory/main_idtfs/win_idtf.html" (*
+                    -> rrel_example: "file://html/idtfs/win_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;
@@ -57,7 +57,7 @@ lose
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/game_theory/main_idtfs/lose_idtf.html" (*
+                    -> rrel_example: "file://html/idtfs/lose_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;
@@ -79,7 +79,7 @@ strategy
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/game_theory/main_idtfs/win_idtf.html" (*
+                    -> rrel_example: "file://html/idtfs/strategy_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;
@@ -101,7 +101,7 @@ player
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/game_theory/main_idtfs/win_idtf.html" (*
+                    -> rrel_example: "file://html/idtfs/player_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;

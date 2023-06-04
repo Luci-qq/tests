@@ -6,7 +6,7 @@ game_theory
                 [Утв.(теория игр)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/game_theory/game_theory_approval.html"
+                -> rrel_example: "file://html/approvals/game_theory_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
@@ -22,7 +22,7 @@ win
                 [Утв.(выигрыш)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/game_theory/win_approval.html"
+                -> rrel_example: "file://html/approvals/win_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
@@ -38,7 +38,7 @@ lose
                 [Утв.(проигрыш)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/game_theory/lose_approval.html"
+                -> rrel_example: "file://html/approvals/lose_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
@@ -54,7 +54,7 @@ strategy
                 [Утв.(стратегия)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/game_theory/strategy_approval.html"
+                -> rrel_example: "file://html/approvals/strategy_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
@@ -70,7 +70,7 @@ player
                 [Утв.(игрок)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/game_theory/player_approval.html"
+                -> rrel_example: "file://html/approvals/player_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
