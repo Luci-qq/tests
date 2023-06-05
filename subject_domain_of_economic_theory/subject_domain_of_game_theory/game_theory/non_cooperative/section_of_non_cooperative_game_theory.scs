@@ -9,7 +9,7 @@ information
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Опр. (Теория игр)] (* <- lang_ru;; *);;
+                [Опр. (Информация)] (* <- lang_ru;; *);;
             
              <= nrel_sc_text_translation: ... 
                 (*
@@ -31,7 +31,7 @@ nash_equality
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Опр. (Выигрыш)] (* <- lang_ru;; *);;
+                [Опр. (Равновесие Нэша)] (* <- lang_ru;; *);;
             
              <= nrel_sc_text_translation: ... 
                 (*
