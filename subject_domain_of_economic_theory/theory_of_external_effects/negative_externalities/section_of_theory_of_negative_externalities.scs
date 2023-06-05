@@ -1,19 +1,19 @@
 negative_impacts
  <-sc_node_not_relation;
     => nrel_main_idtf:
-          [Отрицательное воздействие]
+          [Чрезмерное использование]
             (*<-lang_ru;;*);
-          [Negative impacts]
+          [Overuse]
             (* <- lang_en;;*);
     <- rrel_key_sc_element: ... 
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Опр. (Отрицательное воздействиее)] (* <- lang_ru;; *);;
+                [Опр. (Чрезмерное использование)] (* <- lang_ru;; *);;
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/negative_impacts.html" (*
+                    -> rrel_example: "file://html/idtfs/negative_impacts_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;
@@ -35,7 +35,7 @@ theory_of_negative_externalities
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/theory_of_negative_externalities.html" (*
+                    -> rrel_example: "file://html/idtfs/theory_of_negative_externalities_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;
