@@ -9,7 +9,7 @@ cost_curve
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Опр. (Вычислительная сложность)] (* <- lang_ru;; *);;
+                [Опр. (Кривая издержек)] (* <- lang_ru;; *);;
             
              <= nrel_sc_text_translation: ... 
                 (*
@@ -31,7 +31,7 @@ point_of_minimum_cost
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Опр. (Игры с нулевой суммой)] (* <- lang_ru;; *);;
+                [Опр. (Точка минимальных издержек)] (* <- lang_ru;; *);;
             
              <= nrel_sc_text_translation: ... 
                 (*
@@ -55,7 +55,7 @@ theory_of_cost
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Опр. (Игры с нулевой суммой)] (* <- lang_ru;; *);;
+                [Опр. (Теория издержек)] (* <- lang_ru;; *);;
             
              <= nrel_sc_text_translation: ... 
                 (*
