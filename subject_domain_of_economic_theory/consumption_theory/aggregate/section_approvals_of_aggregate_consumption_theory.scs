@@ -46,7 +46,7 @@ production_structure
             *);;
      *);;
 
-theory_of_aggregate_consumpiton
+theory_of_aggregate_consumption
 <- rrel_key_sc_element: ... 
         (*
             <- sc_definition;;

@@ -65,7 +65,7 @@ production_structure
                 *);;
         *);;
 
-theory_of_aggregate_consumpiton
+theory_of_aggregate_consumption
  <-sc_node_not_relation;
     => nrel_main_idtf:
           [Теория агрегированного потребления]
