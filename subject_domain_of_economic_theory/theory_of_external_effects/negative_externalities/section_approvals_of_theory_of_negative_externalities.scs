@@ -6,7 +6,7 @@ negative_impacts
                 [Утв.(отрицательное воздействие)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/negative_impacts.html"
+                -> rrel_example: "file://html/approvals/negative_impacts_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
@@ -22,7 +22,7 @@ theory_of_negative_externalities
                 [Утв.(теория отрицательных внешних эффектов)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
-                -> rrel_example: "file://html/approvals/theory_of_negative_externalities.html"
+                -> rrel_example: "file://html/approvals/theory_of_negative_externalities_approval.html"
                 (*
                             <- lang_ru;;
                             => nrel_format: format_html;;
