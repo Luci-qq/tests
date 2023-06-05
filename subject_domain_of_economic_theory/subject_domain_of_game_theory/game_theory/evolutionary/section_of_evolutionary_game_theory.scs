@@ -58,7 +58,7 @@ population
             
              <= nrel_sc_text_translation: ... 
                 (*
-                    -> rrel_example: "file://html/idtfs/non_transferable_utility_games_idtf.html" (*
+                    -> rrel_example: "file://html/idtfs/population_idtf.html" (*
 							<- lang_ru;;
 							=> nrel_format: format_html;;
 						*);;
