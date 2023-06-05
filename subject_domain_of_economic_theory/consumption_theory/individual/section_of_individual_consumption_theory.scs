@@ -42,7 +42,6 @@ equilibrium_of_consumption
                 *);;
         *);;
 
-
 marginal_utility
  <-sc_node_not_relation;
     => nrel_main_idtf:
