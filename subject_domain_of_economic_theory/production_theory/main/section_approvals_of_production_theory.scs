@@ -19,7 +19,7 @@ production_theory
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Утв.(выигрыш)] (* <- lang_ru;;*);;
+                [Утв.(теория производства)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
                 -> rrel_example: "file://html/approvals/production_theory_approval.html"
@@ -35,7 +35,7 @@ income
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Утв.(выигрыш)] (* <- lang_ru;;*);;
+                [Утв.(доход)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
                 -> rrel_example: "file://html/approvals/income_approval.html"
