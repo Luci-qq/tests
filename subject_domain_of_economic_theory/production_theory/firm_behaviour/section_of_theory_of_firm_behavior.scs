@@ -47,9 +47,9 @@ tech_level
 theory_of_firm_behavior
  <-sc_node_not_relation;
     => nrel_main_idtf:
-          [Теория издержек]
+          [Теория поведения фирмы]
             (*<-lang_ru;;*);
-          [Theory of cost]
+          [Theory of firm behavior]
             (* <- lang_en;;*);
     <- rrel_key_sc_element: ... 
         (*
