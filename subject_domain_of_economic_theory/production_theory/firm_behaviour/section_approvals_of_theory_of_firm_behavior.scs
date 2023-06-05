@@ -3,7 +3,7 @@ firm_goals
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Утв.(кривая издержек)] (* <- lang_ru;;*);;
+                [Утв.(цели фирмы)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
                 -> rrel_example: "file://html/approvals/firm_goals_approval.html"
@@ -19,7 +19,7 @@ tech_level
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Утв.(точка минимальных издержек)] (* <- lang_ru;;*);;
+                [Утв.(уровень технологического развития)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
                 -> rrel_example: "file://html/approvals/tech_level_approval.html"
@@ -35,7 +35,7 @@ theory_of_firm_behavior
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Утв.(теория издержек)] (* <- lang_ru;;*);;
+                [Утв.(теория поведения фирмы)] (* <- lang_ru;;*);;
             <= nrel_sc_text_translation:...
             (*
                 -> rrel_example: "file://html/approvals/theory_of_firm_behavior_approval.html"

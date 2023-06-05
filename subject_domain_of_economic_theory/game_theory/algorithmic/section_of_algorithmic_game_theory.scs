@@ -42,3 +42,24 @@ zero_sum_games
                 *);;
         *);;
 
+algorithmic_game_theory
+<-sc_node_not_relation;
+    => nrel_main_idtf:
+          [Алгоритмическая теория игр]
+            (*<-lang_ru;;*);
+          [Algorithmic game theory]
+            (* <- lang_en;;*);
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Опр. (Алгоритмическая теория игр)] (* <- lang_ru;; *);;
+            
+             <= nrel_sc_text_translation: ... 
+                (*
+                    -> rrel_example: "file://html/idtfs/algorithmic_game_theory_idtf.html" (*
+							<- lang_ru;;
+							=> nrel_format: format_html;;
+						*);;
+                *);;
+        *);;

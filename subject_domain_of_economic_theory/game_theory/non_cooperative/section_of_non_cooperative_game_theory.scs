@@ -42,3 +42,24 @@ nash_equality
                 *);;
         *);;
 
+non_cooperative_game_theory
+<-sc_node_not_relation;
+    => nrel_main_idtf:
+          [Некооперативная теория игр]
+            (*<-lang_ru;;*);
+          [Non-cooperative game theory]
+            (* <- lang_en;;*);
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Опр. (Некооперативная теория игр)] (* <- lang_ru;; *);;
+            
+             <= nrel_sc_text_translation: ... 
+                (*
+                    -> rrel_example: "file://html/idtfs/non_cooperative_game_theory_idtf.html" (*
+							<- lang_ru;;
+							=> nrel_format: format_html;;
+						*);;
+                *);;
+        *);;
