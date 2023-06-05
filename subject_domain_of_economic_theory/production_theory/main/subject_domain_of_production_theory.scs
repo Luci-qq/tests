@@ -19,4 +19,4 @@ subject_domain_of_production_theory->rrel_not_maximum_studied_object_class:
 theory_of_firm_behavior;
 theory_of_cost;;
 
-subject_domain_of_game_theory<-subject_domain;;
+subject_domain_of_production_theory<-subject_domain;;
