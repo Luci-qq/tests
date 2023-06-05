@@ -1,15 +1,15 @@
 negative_impacts
  <-sc_node_not_relation;
     => nrel_main_idtf:
-          [Чрезмерное использование]
+          [Отрицательное воздействие]
             (*<-lang_ru;;*);
-          [Overuse]
+          [Negative impacts]
             (* <- lang_en;;*);
     <- rrel_key_sc_element: ... 
         (*
             <- sc_definition;;
             => nrel_main_idtf:
-                [Опр. (Чрезмерное использование)] (* <- lang_ru;; *);;
+                [Опр. (Отрицательное воздействиее)] (* <- lang_ru;; *);;
             
              <= nrel_sc_text_translation: ... 
                 (*
