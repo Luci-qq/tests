@@ -46,9 +46,9 @@ product_features
 theory_of_market_structure
  <-sc_node_not_relation;
     => nrel_main_idtf:
-          [Теория издержек]
+          [Теория структуры рынка]
             (*<-lang_ru;;*);
-          [Theory of cost]
+          [Theory of market structure]
             (* <- lang_en;;*);
     <- rrel_key_sc_element: ... 
         (*
