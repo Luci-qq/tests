@@ -9,5 +9,5 @@ subject_domain_of_theory_of_common_pool_resources
 <-not_enough_formed_structure;;
 
 
-subject_domain_of_theory_of_common_pool_resources->rrel_maximum_studied_object_class:theory_of_individual_consumption;;
+subject_domain_of_theory_of_common_pool_resources->rrel_maximum_studied_object_class:theory_of_common_pool_resources;;
 subject_domain_of_theory_of_common_pool_resources<-subject_domain;;

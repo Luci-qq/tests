@@ -12,7 +12,6 @@ subject_domain_of_theory_of_external_effects=>nrel_private_subject_domain:
 subject_domain_of_theory_of_common_pool_resources(*<-sc_node_struct;;*);
 subject_domain_of_theory_of_positive_externalities(*<-sc_node_struct;;*);
 subject_domain_of_theory_of_negative_externalities(*<-sc_node_struct;;*);
-subject_domain_of_theory_of_property_rights_and_market_based_solutions(*<-sc_node_struct;;*);
 subject_domain_of_theory_of_public_goods(*<-sc_node_struct;;*);;
 
 subject_domain_of_theory_of_external_effects->rrel_maximum_studied_object_class:theory_of_external_effects;;
@@ -20,7 +19,6 @@ subject_domain_of_theory_of_external_effects->rrel_not_maximum_studied_object_cl
 theory_of_common_pool_resources;
 theory_of_positive_externalities;
 theory_of_negative_externalities;
-theory_of_property_rights_and_market_based_solutions;
 theory_of_public_goods;;
 
 
