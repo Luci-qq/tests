@@ -40,7 +40,13 @@ production_theory
 							=> nrel_format: format_html;;
 						*);;
                 *);;
-        *);;
+        *);
+  =>nrel_subdividing:
+  theory_of_cost;
+  theory_of_firm_behavior;
+  theory_of_market_structure;
+  theory_of_production_functions;
+  theory_of_technological_change;;
 
 income
  <-sc_node_not_relation;
