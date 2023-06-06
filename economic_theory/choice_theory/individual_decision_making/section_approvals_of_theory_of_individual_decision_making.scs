@@ -1,0 +1,47 @@
+expected_utility_theory 
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Утв.(теория ожидаемой полезности)] (* <- lang_ru;;*);;
+            <= nrel_sc_text_translation:...
+            (*
+                -> rrel_example: "file://html/approvals/expected_utility_theory_approval.html"
+                (*
+                            <- lang_ru;;
+                            => nrel_format: format_html;;
+                        *);;
+            *);;
+     *);;
+
+prospect_theory
+<- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Утв.(проект-теория)] (* <- lang_ru;;*);;
+            <= nrel_sc_text_translation:...
+            (*
+                -> rrel_example: "file://html/approvals/prospect_theory_approval.html"
+                (*
+                            <- lang_ru;;
+                            => nrel_format: format_html;;
+                        *);;
+            *);;
+     *);;
+
+theory_of_individual_decision_making
+<- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Утв.(теория индивидуального принятия решений)] (* <- lang_ru;;*);;
+            <= nrel_sc_text_translation:...
+            (*
+                -> rrel_example: "file://html/approvals/theory_of_individual_decision_making_approval.html"
+                (*
+                            <- lang_ru;;
+                            => nrel_format: format_html;;
+                        *);;
+            *);;
+     *);;

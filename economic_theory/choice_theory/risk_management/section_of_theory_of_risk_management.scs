@@ -1,0 +1,65 @@
+risk_assessment
+ <-sc_node_not_relation;
+    => nrel_main_idtf:
+          [Оценка рисков]
+            (*<-lang_ru;;*);
+          [Risk assessment]
+            (* <- lang_en;;*);
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Опр. (Оценка рисков)] (* <- lang_ru;; *);;
+            
+             <= nrel_sc_text_translation: ... 
+                (*
+                    -> rrel_example: "file://html/idtfs/risk_assessment_idtf.html" (*
+							<- lang_ru;;
+							=> nrel_format: format_html;;
+						*);;
+                *);;
+        *);;
+
+risk_mitigation_strategies
+ <-sc_node_not_relation;
+    => nrel_main_idtf:
+          [Стратегии смягчения рисков]
+            (*<-lang_ru;;*);
+          [Risk mitigation strategies]
+            (* <- lang_en;;*);
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Опр. (Стратегии смягчения рисков)] (* <- lang_ru;; *);;
+            
+             <= nrel_sc_text_translation: ... 
+                (*
+                    -> rrel_example: "file://html/idtfs/risk_mitigation_strategies_idtf.html" (*
+							<- lang_ru;;
+							=> nrel_format: format_html;;
+						*);;
+                *);;
+        *);;
+
+theory_of_risk_management
+ <-sc_node_not_relation;
+    => nrel_main_idtf:
+          [Теория управления рисками]
+            (*<-lang_ru;;*);
+          [Theory of risk management]
+            (* <- lang_en;;*);
+    <- rrel_key_sc_element: ... 
+        (*
+            <- sc_definition;;
+            => nrel_main_idtf:
+                [Опр. (Теория управления рисками)] (* <- lang_ru;; *);;
+            
+             <= nrel_sc_text_translation: ... 
+                (*
+                    -> rrel_example: "file://html/idtfs/theory_of_risk_management_idtf.html" (*
+							<- lang_ru;;
+							=> nrel_format: format_html;;
+						*);;
+                *);;
+        *);;
